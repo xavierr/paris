@@ -1,0 +1,42 @@
+#+TITLE: Paris
+#+STARTUP: fold
+#+OPTIONS: toc:nil num:nil
+* Restaurants
+** Procope
+   - [[https://www.procope.com/][site]]
+** Relais de l'entrecote
+   - [[https://www.relaisentrecote.fr/?page_id=205&lang=fr_FR][site]]
+   - 2 restaurants : montparnasse et St Germain des pres
+   - pas de réservation
+** Cafe Marly (Louvres)
+   - [[https://cafe-marly.com/][site]]
+   - Rue de Rivoli
+** Higuma
+   - [[http://higuma.fr/][site]]
+   - restaurant japonais, Saint Anne
+* Puces de Vanves
+  - [[https://pucesdevanves.com/][site]]
+* Montparnasse
+  - [[https://www.tour-montparnasse.fr/][site]]
+  - [[https://www.tourmontparnasse56.com/fr/infos-pratiques/tarifs/][tarif et horaires]]
+  - jusqu`à 22h30
+* Theatre
+** Comedie francaise
+   - [[https://www.comedie-francaise.fr/][site]]
+   - épuisé!
+** La huchette
+   - [[http://www.theatre-huchette.com/en/home-store/][site]]
+   - [[https://indiv.themisweb.fr/0620/fChoixSeance.aspx?idstructure=0620&EventId=46&request=QcE+w0WHSuCuxfPWGGXv4CMkRpLMQWK8DMfSJFPTB41m3Aj2wNBfMmHEPGuq9Eoekvmk8oW7XDkM/hFpKT3WVA==&yymm=20230207][lien réservation]]
+* Musées
+** Musée Rodin
+   - [[https://www.musee-rodin.fr/][site]]
+   - [[https://www.musee-rodin.fr/preparer-sa-visite/informations-pratiques#horaires][horaires]]
+** Musée Carnavalet
+   - [[https://www.carnavalet.paris.fr/visiter][site]]
+   - [[https://www.carnavalet.paris.fr/visiter/informations-pratiques][horaire]] : 10-18h
+* Passages
+** Passage Colbert
+** Panorama 
+** Geoffroy
+** Verdeaux
+** Galerie verraux-dodat
