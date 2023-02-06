@@ -1,6 +1,18 @@
 #+TITLE: Paris
 #+STARTUP: fold
 #+OPTIONS: toc:nil num:nil
+* Fly
+** Sophus
+   - [[https://wwws.airfrance.no/trip/trip-details?id=c36ee94a-e649-4f35-94c3-9d54435a0473][billet]]
+   - Oslo 17:30 - Paris 20:00
+   - [[pdf:~/Perso/paris/documents/Handling-Advice-Unaccompanied-Minor-Sophus.pdf::1++0.00][skjema]]
+** Xavier og Mette
+   - [[https://wwws.airfrance.no/trip/trip-details?id=c7fcd98c-dbac-4d3f-8daf-b623eec400d0][billet]]
+   - Oslo 9:25 - Paris 15:15
+   - Paris 18:15 - Oslo 22:20
+* Airbnb
+  - [[https://www.airbnb.com/trips/v1/c4743978-26c8-46c7-9081-750d290d9065/ro/RESERVATION2_CHECKIN/HMYX298ASS][link]]
+  - 22 avenue Jean-Jaures
 * Restaurants
 ** Procope
    - [[https://www.procope.com/][site]]
