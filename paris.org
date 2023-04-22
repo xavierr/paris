@@ -20,12 +20,12 @@
    - [[https://www.relaisentrecote.fr/?page_id=205&lang=fr_FR][site]]
    - 2 restaurants : montparnasse et St Germain des pres
    - pas de réservation
-** Cafe Marly (Louvres)
-   - [[https://cafe-marly.com/][site]]
-   - Rue de Rivoli
 ** Higuma
    - [[http://higuma.fr/][site]]
    - restaurant japonais, Saint Anne
+** Cafe Marly (Louvres)
+   - [[https://cafe-marly.com/][site]]
+   - Rue de Rivoli
 * Puces de Vanves
   - [[https://pucesdevanves.com/][site]]
 * Montparnasse
