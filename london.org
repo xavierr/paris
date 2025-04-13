@@ -1,0 +1,27 @@
+#+TITLE: Tur til England
+#+AUTHOR: Xavier
+#+OPTIONS: num:0
+#+OPTIONS: toc:nil
+#+BIND: org-html-validation-link nil
+#+HTML_HEAD_EXTRA: <style type="text/css"> h2  {margin-left : 0cm; color : darkgreen } </style>
+#+HTML_HEAD_EXTRA: <style type="text/css"> h3  {color : red } </style>
+#+HTML_HEAD_EXTRA: <style type="text/css"> h4  {color : darkorange } </style>
+#+HTML_HEAD_EXTRA: <style type="text/css"> div.outline-3 > h3 {margin-bottom : 0cm} </style>
+#+HTML_HEAD_EXTRA: <style type="text/css"> div.outline-text-3 > p {margin-top : 0cm; margin-left : 0cm; padding : 0cm } </style>
+#+HTML_HEAD_EXTRA: <style type="text/css"> div.outline-4 > h4 {margin-bottom : 0cm; margin-left : 1cm} </style>
+#+HTML_HEAD_EXTRA: <style type="text/css"> div.outline-text-4 > p {margin-top : 0cm; margin-left : 1cm; padding : 0cm } </style>
+#+HTML_HEAD_EXTRA: <style type="text/css"> div.outline-text-4 > ul {margin-top : 0.2cm; margin-left : 1.5cm; padding : 0cm } </style>
+#+HTML_HEAD_EXTRA: <style type="text/css"> div.outline-text-4 > table {margin-left : 1cm; margin-top : 0.5cm} </style>
+
+* Tur 4 Juli
+  - Norwegian Gatwick 18:50-20:10, 1690/pers  [[https://www.norwegian.no/ipc/availability/avaday?D_City=OSLALL&A_City=LGW&TripType=1&D_Day=04&D_Month=202507&D_SelectedDay=04&R_Day=04&R_Month=202507&R_SelectedDay=04&dFlight=DY1302OSLLGW03JUL&dCabinFareType=9&AgreementCodeName=-1&CurrencyCode=NOK&rnd=44222&processid=70534][link]] 
+  - Scandinavia [[https://www.sas.no/book/flights/?search=OW_OSL-LON-20250704_a1c0i0y0&view=upsell&bookingFlow=revenue&cepId=&sortBy=rec][link]]
+    | avgang |       | pris     |
+    |--------+-------+----------|
+    |  13:15 | 14:35 | 2439 nok |
+    |  15:05 | 16:25 | 2139 nok |
+    |  17:30 | 18:50 | 2439 nok |
+* Airbnb London
+  - Sheperd [[https://www.airbnb.no/rooms/1349148868142618343?adults=5&check_in=2025-07-04&check_out=2025-07-07&location=London&search_mode=regular_search&source_impression_id=p3_1744557368_P32_apvo7uRVoBRz&previous_page_section_name=1001&federated_search_id=92071c40-8ce4-40d3-a0c4-db2eaf3a6f30&enable_auto_translate=false][link]]
+* Retur 15 Juli
+  - Norwegian [[https://www.norwegian.no/ipc/availability/avaday?D_City=LGW&A_City=OSLALL&TripType=1&D_Day=15&D_Month=202507&D_SelectedDay=15&R_Day=15&R_Month=202507&R_SelectedDay=15&AdultCount=5&dFlight=DY1307LGWOSL15JUL&dCabinFareType=9&IncludeTransit=false&AgreementCodeName=-1&CurrencyCode=NOK&rnd=85999&processid=19381][link]] 1741 nok, 1841 nok
