@@ -21,8 +21,10 @@
    - 14:30-16:10
 * Jouy-en-Josas
   - Grand-père et Grand-mère
-    2 allée des Yvelines, [[https://duckduckgo.com/?q=2+all%C3%A9e+des+Yvelines&iaxm=maps&source=maps][carte]]
-  - 22 avenue Jean-Jaures, [[https://duckduckgo.com/?q=22+avenue+Jean-Jaures+jouy-en-josas&iaxm=maps&source=maps][carte]]
+    2 allée des Yvelines, [[https://duckduckgo.com/?q=2+All%C3%A9e+des+Yvelines&iaxm=maps&bbox=2.169236854016016%2C48.763766768251465%2C2.1706011739380857%2C48.76286744805713][carte]]
+  - 22 avenue Jean-Jaures, [[https://duckduckgo.com/?q=22+Avenue+Jean+Jaur%C3%A8s&iaxm=maps&bbox=2.1656638905980636%2C48.76542997625928%2C2.167028255703206%2C48.76453065606494][carte]]
+  - Louise habite rue [[https://duckduckgo.com/?q=Rue+Victor+Letalle&t=ffab&iaxm=maps&bbox=2.384705516736609%2C48.867492201601074%2C2.3860726624320923%2C48.86659288140674][Victor Letalle]]
+  - Philippe et Vanessa habitent [[https://duckduckgo.com/?q=40+Rue+Bezout&iaxm=maps&bbox=2.329795854235509%2C48.829352858339355%2C2.3311619590274306%2C48.82845353814502][40 rue Bezout]]
 * Metro
   - [[https://www.ratp.fr/plan-metro][plan du metro]]
 * Quartiers
@@ -31,27 +33,28 @@
    - [[https://duckduckgo.com/?q=montmartre+paris&t=ffab&iaxm=maps&bbox=2.3318534403534272%2C48.86280027784091%2C2.3413422596466376%2C48.85904153498378][adresse]]
 ** Le Louvre
    - [[https://fr.wikipedia.org/wiki/Palais_du_Louvre][wikipedia]]
-   - [[https://duckduckgo.com/?q=palais+du+louvre+map&t=ffab&iaxm=maps&source=maps][adresse]]
+   - [[https://duckduckgo.com/?t=ffab&q=93+Rue+de+Rivoli%2C+75001+Paris%2C+France&iaxm=maps&bbox=2.3251552092463896%2C48.86610947457597%2C2.3478331907536187%2C48.85712632173476][adresse]]
 * Musées
 ** Maison de Victor Hugo
    - place des Vosges
    - [[https://www.maisonsvictorhugo.paris.fr/paris][site]]
    - [[https://www.maisonsvictorhugo.paris.fr/paris/votre-visite/informations-pratiques][infos pratiques]]
      - Ouverts tous les jours sauf lundi, de 10h à 18h
+   - [[https://duckduckgo.com/?t=ffab&q=6%2C+place+des+Vosges+75004+Paris&iaxm=maps&bbox=2.0500308185073663%2C48.98062000105307%2C2.6810803814926203%2C48.7306200010531][adresse]]
 ** Musée Rodin
    - [[https://www.musee-rodin.fr/][site]]
    - [[https://www.musee-rodin.fr/preparer-sa-visite/informations-pratiques#horaires][horaires]]
      - tous les jours sauf lundi, 10 h à 18 h 30. 
-   - [[https://duckduckgo.com/?t=ffab&q=77+rue+de+Varenne+75007+Paris&iaxm=maps&source=maps][adresse]]
+   - [[https://duckduckgo.com/?t=ffab&q=77+rue+de+Varenne+75007+Paris&iaxm=maps&bbox=2.304223809865732%2C48.86036767453523%2C2.32689919013427%2C48.85138452169402][adresse]]
 ** Musée Picasso
    - [[https://www.museepicassoparis.fr/fr][site]]
    - [[https://www.museepicassoparis.fr/fr/horaires-et-acces][horaires]]
      - tous les jours sauf lundi, 8h30-18h00
-   - [[https://duckduckgo.com/?t=ffab&q=5+rue+de+Thorigny+75003+Paris&iaxm=maps&source=maps][adresse]]
+   - [[https://duckduckgo.com/?t=ffab&q=5+Rue+de+Thorigny&iaxm=maps&bbox=2.362396072565788%2C48.860351088319824%2C2.363763023198372%2C48.85945176812549][adresse]]
 ** Musée Carnavalet
    - [[https://www.carnavalet.paris.fr/visiter][site]]
    - [[https://www.carnavalet.paris.fr/visiter/informations-pratiques][horaire]] : tous les jours sauf lundi, 10-18h
-   - [[https://duckduckgo.com/?q=23%2C+rue+Madame+de+S%C3%A9vign%C3%A9+75003+Paris&t=ffab&iaxm=maps&source=maps][adresse]]
+   - [[https://duckduckgo.com/?q=23%2C+rue+Madame+de+S%C3%A9vign%C3%A9+75003+Paris&t=ffab&iaxm=maps&bbox=2.34644326743134%2C48.86508265978562%2C2.367850732568712%2C48.856602649785636][adresse]]
 * Restaurants
 ** Procope
    - [[https://www.procope.com/][site]]
