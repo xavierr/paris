@@ -12,15 +12,46 @@
 #+HTML_HEAD_EXTRA: <style type="text/css"> div.outline-text-4 > ul {margin-top : 0.2cm; margin-left : 1.5cm; padding : 0cm } </style>
 #+HTML_HEAD_EXTRA: <style type="text/css"> div.outline-text-4 > table {margin-left : 1cm; margin-top : 0.5cm} </style>
 
-* Fly
+* Avion
 ** Aller
    - Oslo-Orly
    - 19:35-22:10
 ** Retour
    - Orly-Paris
    - 14:30-16:10
-* Airbnb
-  - 22 avenue Jean-Jaures
+* Jouy-en-Josas
+  - Grand-père et Grand-mère
+    2 allée des Yvelines, [[https://duckduckgo.com/?q=2+all%C3%A9e+des+Yvelines&iaxm=maps&source=maps][carte]]
+  - 22 avenue Jean-Jaures, [[https://duckduckgo.com/?q=22+avenue+Jean-Jaures+jouy-en-josas&iaxm=maps&source=maps][carte]]
+* Metro
+  - [[https://www.ratp.fr/plan-metro][plan du metro]]
+* Quartiers
+** Butte Montmartre
+   - [[https://fr.wikipedia.org/wiki/Montmartre][wikipedia]]
+   - [[https://duckduckgo.com/?q=montmartre+paris&t=ffab&iaxm=maps&bbox=2.3318534403534272%2C48.86280027784091%2C2.3413422596466376%2C48.85904153498378][adresse]]
+** Le Louvre
+   - [[https://fr.wikipedia.org/wiki/Palais_du_Louvre][wikipedia]]
+   - [[https://duckduckgo.com/?q=palais+du+louvre+map&t=ffab&iaxm=maps&source=maps][adresse]]
+* Musées
+** Maison de Victor Hugo
+   - place des Vosges
+   - [[https://www.maisonsvictorhugo.paris.fr/paris][site]]
+   - [[https://www.maisonsvictorhugo.paris.fr/paris/votre-visite/informations-pratiques][infos pratiques]]
+     - Ouverts tous les jours sauf lundi, de 10h à 18h
+** Musée Rodin
+   - [[https://www.musee-rodin.fr/][site]]
+   - [[https://www.musee-rodin.fr/preparer-sa-visite/informations-pratiques#horaires][horaires]]
+     - tous les jours sauf lundi, 10 h à 18 h 30. 
+   - [[https://duckduckgo.com/?t=ffab&q=77+rue+de+Varenne+75007+Paris&iaxm=maps&source=maps][adresse]]
+** Musée Picasso
+   - [[https://www.museepicassoparis.fr/fr][site]]
+   - [[https://www.museepicassoparis.fr/fr/horaires-et-acces][horaires]]
+     - tous les jours sauf lundi, 8h30-18h00
+   - [[https://duckduckgo.com/?t=ffab&q=5+rue+de+Thorigny+75003+Paris&iaxm=maps&source=maps][adresse]]
+** Musée Carnavalet
+   - [[https://www.carnavalet.paris.fr/visiter][site]]
+   - [[https://www.carnavalet.paris.fr/visiter/informations-pratiques][horaire]] : tous les jours sauf lundi, 10-18h
+   - [[https://duckduckgo.com/?q=23%2C+rue+Madame+de+S%C3%A9vign%C3%A9+75003+Paris&t=ffab&iaxm=maps&source=maps][adresse]]
 * Restaurants
 ** Procope
    - [[https://www.procope.com/][site]]
@@ -36,7 +67,7 @@
    - Rue de Rivoli
 * Puces de Vanves
   - [[https://pucesdevanves.com/][site]]
-* Montparnasse
+* Tour Montparnasse
   - [[https://www.tour-montparnasse.fr/][site]]
   - [[https://www.tourmontparnasse56.com/fr/infos-pratiques/tarifs/][tarif et horaires]]
   - jusqu`à 22h30
@@ -47,16 +78,14 @@
 ** La huchette
    - [[http://www.theatre-huchette.com/en/home-store/][site]]
    - [[https://indiv.themisweb.fr/0620/fChoixSeance.aspx?idstructure=0620&EventId=46&request=QcE+w0WHSuCuxfPWGGXv4CMkRpLMQWK8DMfSJFPTB41m3Aj2wNBfMmHEPGuq9Eoekvmk8oW7XDkM/hFpKT3WVA==&yymm=20230207][lien réservation]]
-* Musées
-** Musée Rodin
-   - [[https://www.musee-rodin.fr/][site]]
-   - [[https://www.musee-rodin.fr/preparer-sa-visite/informations-pratiques#horaires][horaires]]
-** Musée Carnavalet
-   - [[https://www.carnavalet.paris.fr/visiter][site]]
-   - [[https://www.carnavalet.paris.fr/visiter/informations-pratiques][horaire]] : 10-18h
 * Passages
 ** Passage Colbert
-** Panorama 
-** Geoffroy
-** Verdeaux
+   - [[https://fr.wikipedia.org/wiki/Passage_Colbert][wikipedia]]
+** Passage des Panoramas
+   - [[https://fr.wikipedia.org/wiki/Passage_des_Panoramas][wikipedia]]
+** Passage Geoffroy
+   - [[https://fr.wikipedia.org/wiki/Passage_Jouffroy][wikipedia]]
+** Passage Verdeaux
+   - [[https://fr.wikipedia.org/wiki/Passage_Verdeau][wikipedia]]
 ** Galerie verraux-dodat
+   - [[https://fr.wikipedia.org/wiki/Passage_Verdeau][wikipedia]]
