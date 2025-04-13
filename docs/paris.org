@@ -1,17 +1,25 @@
-#+TITLE: Paris
+#+TITLE: Paris Paques 2025
 #+STARTUP: fold
 #+OPTIONS: toc:nil num:nil
+#+BIND: org-html-validation-link nil
+#+HTML_HEAD_EXTRA: <style type="text/css"> h2  {margin-left : 0cm; color : darkgreen } </style>
+#+HTML_HEAD_EXTRA: <style type="text/css"> h3  {color : red } </style>
+#+HTML_HEAD_EXTRA: <style type="text/css"> h4  {color : darkorange } </style>
+#+HTML_HEAD_EXTRA: <style type="text/css"> div.outline-3 > h3 {margin-bottom : 0cm} </style>
+#+HTML_HEAD_EXTRA: <style type="text/css"> div.outline-text-3 > p {margin-top : 0cm; margin-left : 0cm; padding : 0cm } </style>
+#+HTML_HEAD_EXTRA: <style type="text/css"> div.outline-4 > h4 {margin-bottom : 0cm; margin-left : 1cm} </style>
+#+HTML_HEAD_EXTRA: <style type="text/css"> div.outline-text-4 > p {margin-top : 0cm; margin-left : 1cm; padding : 0cm } </style>
+#+HTML_HEAD_EXTRA: <style type="text/css"> div.outline-text-4 > ul {margin-top : 0.2cm; margin-left : 1.5cm; padding : 0cm } </style>
+#+HTML_HEAD_EXTRA: <style type="text/css"> div.outline-text-4 > table {margin-left : 1cm; margin-top : 0.5cm} </style>
+
 * Fly
-** Sophus
-   - [[https://wwws.airfrance.no/trip/trip-details?id=c36ee94a-e649-4f35-94c3-9d54435a0473][billet]]
-   - Oslo 17:30 - Paris 20:00
-   - [[pdf:~/Perso/paris/documents/Handling-Advice-Unaccompanied-Minor-Sophus.pdf::1++0.00][skjema]]
-** Xavier og Mette
-   - [[https://wwws.airfrance.no/trip/trip-details?id=c7fcd98c-dbac-4d3f-8daf-b623eec400d0][billet]]
-   - Oslo 9:25 - Paris 15:15
-   - Paris 18:15 - Oslo 22:20
+** Aller
+   - Oslo-Orly
+   - 19:35-22:10
+** Retour
+   - Orly-Paris
+   - 14:30-16:10
 * Airbnb
-  - [[https://www.airbnb.com/trips/v1/c4743978-26c8-46c7-9081-750d290d9065/ro/RESERVATION2_CHECKIN/HMYX298ASS][link]]
   - 22 avenue Jean-Jaures
 * Restaurants
 ** Procope
