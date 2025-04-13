@@ -14,13 +14,19 @@
 #+HTML_HEAD_EXTRA: <style type="text/css"> div.outline-text-4 > table {margin-left : 1cm; margin-top : 0.5cm} </style>
 
 * Tur 4 Juli
-  - Norwegian Gatwick 18:50-20:10, 1690/pers  [[https://www.norwegian.no/ipc/availability/avaday?D_City=OSLALL&A_City=LGW&TripType=1&D_Day=04&D_Month=202507&D_SelectedDay=04&R_Day=04&R_Month=202507&R_SelectedDay=04&dFlight=DY1302OSLLGW03JUL&dCabinFareType=9&AgreementCodeName=-1&CurrencyCode=NOK&rnd=44222&processid=70534][link]] 
-  - Scandinavia [[https://www.sas.no/book/flights/?search=OW_OSL-LON-20250704_a1c0i0y0&view=upsell&bookingFlow=revenue&cepId=&sortBy=rec][link]]
-    | avgang |       | pris     |
-    |--------+-------+----------|
-    |  13:15 | 14:35 | 2439 nok |
-    |  15:05 | 16:25 | 2139 nok |
-    |  17:30 | 18:50 | 2439 nok |
+  - Norwegian
+    - 18:50-20:10, 1690/pers  [[https://www.norwegian.no/ipc/availability/avaday?D_City=OSLALL&A_City=LGW&TripType=1&D_Day=04&D_Month=202507&D_SelectedDay=04&R_Day=04&R_Month=202507&R_SelectedDay=04&dFlight=DY1302OSLLGW03JUL&dCabinFareType=9&AgreementCodeName=-1&CurrencyCode=NOK&rnd=44222&processid=70534][link]]
+    - lander på Gatwick
+    - Det tar 30 minutter med tog fra Gatwick til Victoria Station (inn i sentrum), se [[https://www.gatwickairport.com/transport-options/train.html][her]].
+  - SAS
+    - [[https://www.sas.no/book/flights/?search=OW_OSL-LON-20250704_a1c0i0y0&view=upsell&bookingFlow=revenue&cepId=&sortBy=rec][link]]
+      | avgang |       | pris     |
+      |--------+-------+----------|
+      |  13:15 | 14:35 | 2439 nok |
+      |  15:05 | 16:25 | 2139 nok |
+      |  17:30 | 18:50 | 2439 nok |
+    - Lander på Heathrow
+    - Tbane fra London, se [[https://www.heathrow.com/transport-and-directions/by-rail-or-train/london-underground][her]].
 * Airbnb London
   - Sheperd [[https://www.airbnb.no/rooms/1349148868142618343?adults=5&check_in=2025-07-04&check_out=2025-07-07&location=London&search_mode=regular_search&source_impression_id=p3_1744557368_P32_apvo7uRVoBRz&previous_page_section_name=1001&federated_search_id=92071c40-8ce4-40d3-a0c4-db2eaf3a6f30&enable_auto_translate=false][link]]
 * Retur 15 Juli
