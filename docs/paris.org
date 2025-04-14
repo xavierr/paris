@@ -3,7 +3,7 @@
 #+OPTIONS: toc:nil num:nil
 #+BIND: org-html-validation-link nil
 #+HTML_HEAD_EXTRA: <style type="text/css"> h2  {margin-left : 0cm; color : darkgreen } </style>
-#+HTML_HEAD_EXTRA: <style type="text/css"> h3  {color : red } </style>
+#+HTML_HEAD_EXTRA: <style type="text/css"> h3  {color :  #000080 } </style>
 #+HTML_HEAD_EXTRA: <style type="text/css"> h4  {color : darkorange } </style>
 #+HTML_HEAD_EXTRA: <style type="text/css"> div.outline-3 > h3 {margin-bottom : 0cm} </style>
 #+HTML_HEAD_EXTRA: <style type="text/css"> div.outline-text-3 > p {margin-top : 0cm; margin-left : 0cm; padding : 0cm } </style>
@@ -15,10 +15,10 @@
 * Avion
 ** Aller
    - Oslo-Orly
-   - 19:35-22:10
+   - lundi 14 avril, 19:35-22:10
 ** Retour
    - Orly-Paris
-   - 14:30-16:10
+   - dimanche 20 avril, 14:30-16:10
 * Jouy-en-Josas
   - Grand-père et Grand-mère
     2 allée des Yvelines, [[https://duckduckgo.com/?q=2+All%C3%A9e+des+Yvelines&iaxm=maps&bbox=2.169236854016016%2C48.763766768251465%2C2.1706011739380857%2C48.76286744805713][carte]]
