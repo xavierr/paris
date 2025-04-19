@@ -17,10 +17,13 @@
 * Information vehicules
 ** immatriculation
    EM-984-BV
+   [[https://autoviza.fr/report/report?uid=b69d7928-6d9d-4c4c-858d-064768251691&key=df714fb0-8][autoviza]]
+   mise en circulation : Avril 2017
+** HistoVec
+   - rapport [[lien][pdf]]
+   - [[https://histovec.interieur.gouv.fr/histovec/rapport-vendeur][lien]]
 ** kilométrage
    53200 km <2025-04-17 to.>
-** année
-   2017
 ** modèle
    citroen cactus 1.2 puretech 82 feel - Essence - boite manuelle
 * Centrale des particuliers
