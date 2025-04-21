@@ -1,4 +1,4 @@
-#+TITLE: Paris Paques 2025
+#+TITLE: Paris
 #+STARTUP: fold
 #+OPTIONS: toc:nil num:nil
 #+BIND: org-html-validation-link nil
@@ -12,17 +12,10 @@
 #+HTML_HEAD_EXTRA: <style type="text/css"> div.outline-text-4 > ul {margin-top : 0.2cm; margin-left : 1.5cm; padding : 0cm } </style>
 #+HTML_HEAD_EXTRA: <style type="text/css"> div.outline-text-4 > table {margin-left : 1cm; margin-top : 0.5cm} </style>
 
-* Avion
-** Aller
-   - Oslo-Orly
-   - lundi 14 avril, 19:35-22:10
-** Retour
-   - Orly-Paris
-   - dimanche 20 avril, 14:30-16:10
-* Jouy-en-Josas
+* Famille
   - Grand-père et Grand-mère
     2 allée des Yvelines, [[https://duckduckgo.com/?q=2+All%C3%A9e+des+Yvelines&iaxm=maps&bbox=2.169236854016016%2C48.763766768251465%2C2.1706011739380857%2C48.76286744805713][carte]]
-  - 22 avenue Jean-Jaures, [[https://duckduckgo.com/?q=22+Avenue+Jean+Jaur%C3%A8s&iaxm=maps&bbox=2.1656638905980636%2C48.76542997625928%2C2.167028255703206%2C48.76453065606494][carte]]
+  - Airbnbm 22 avenue Jean-Jaures, [[https://duckduckgo.com/?q=22+Avenue+Jean+Jaur%C3%A8s&iaxm=maps&bbox=2.1656638905980636%2C48.76542997625928%2C2.167028255703206%2C48.76453065606494][carte]]
   - Louise habite rue [[https://duckduckgo.com/?q=Rue+Victor+Letalle&t=ffab&iaxm=maps&bbox=2.384705516736609%2C48.867492201601074%2C2.3860726624320923%2C48.86659288140674][Victor Letalle]]
   - Philippe et Vanessa habitent [[https://duckduckgo.com/?q=40+Rue+Bezout&iaxm=maps&bbox=2.329795854235509%2C48.829352858339355%2C2.3311619590274306%2C48.82845353814502][40 rue Bezout]]
 * Metro
@@ -34,6 +27,40 @@
 ** Le Louvre
    - [[https://fr.wikipedia.org/wiki/Palais_du_Louvre][wikipedia]]
    - [[https://duckduckgo.com/?t=ffab&q=93+Rue+de+Rivoli%2C+75001+Paris%2C+France&iaxm=maps&bbox=2.3251552092463896%2C48.86610947457597%2C2.3478331907536187%2C48.85712632173476][adresse]]
+** Puces de Vanves
+   - [[https://pucesdevanves.com/][site]]
+** Tour Montparnasse
+   - [[https://www.tour-montparnasse.fr/][site]]
+   - [[https://www.tourmontparnasse56.com/fr/infos-pratiques/tarifs/][tarif et horaires]]
+   - jusqu`à 22h30
+** Parc de Bagatelles
+   - [[https://fr.wikipedia.org/wiki/Parc_de_Bagatelle][wikipedia]]
+   - [[https://duckduckgo.com/?q=Parc+de+Bagatelles&iaxm=maps][adresse]]
+** Parc des buttes Chaumont
+** Le village de Charonne
+   - [[https://fr.wikipedia.org/wiki/Quartier_de_Charonne][wikipedia]]
+** Rue Irénée Blanc et Jules Siegfried
+   - [[https://fr.wikipedia.org/wiki/Rue_Jules-Siegfried][wikipedia]]
+* Les facades
+** La porte de l'immeuble Lavirotte
+   - [[https://fr.wikipedia.org/wiki/Immeuble_Lavirotte][wikipedia]]
+   - Art nouveau
+** Le portail de la cité Bauer
+   - [[https://1.bp.blogspot.com/-R9qWyyDxtx8/YGVhMgeA35I/AAAAAAABVwk/Ze5mNm_JkOgc2ovFukgq5e0gtvoRndFFQCLcBGAsYHQ/s800/portail-cite-bauer-paris-14-9.JPG][image]]
+   - portail sculpté
+** Le portail d'entrée de Castel Beranger
+   - [[https://fr.wikipedia.org/wiki/Castel_B%C3%A9ranger][wikipedia]]
+   - Art nouveau
+** 12 rue Sédillot
+   - [[https://lartnouveau.com/artistes/lavirotte/12_%20rue_sedillot.htm][site]]
+   - Art nouveau, 7eme arrondissement
+** 67 Boulevard Raspail
+   - [[https://fr.wikipedia.org/wiki/Boulevard_Raspail][wikipedia]], 6,7,14 eme arrondissements
+   - [[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRJzsbGjbOAGWJr-GIC_i1ohMQe1AL-wd7faDuePBDLP4UgIOCDZjbTBSD6rwzVZRpaD4efVdACh0BGVBWLEUCNb4pLdNF8iCaiLOXXaAYl5hzHPG8cEmlMSDJk2hRBE0SX0rH_lKkkpte/w1200-h630-p-k-no-nu/DSC00147.JPG][image]]
+   - Art nouveau
+** La porte de l'immeuble les Chardons
+   - [[https://fr.wikipedia.org/wiki/Immeuble_Les_Chardons][wikipedia]]
+   - Art nouveau, 16eme arrondissement
 * Musées
 ** Maison de Victor Hugo
    - place des Vosges
@@ -41,6 +68,9 @@
    - [[https://www.maisonsvictorhugo.paris.fr/paris/votre-visite/informations-pratiques][infos pratiques]]
      - Ouverts tous les jours sauf lundi, de 10h à 18h
    - [[https://duckduckgo.com/?t=ffab&q=6%2C+place+des+Vosges+75004+Paris&iaxm=maps&bbox=2.0500308185073663%2C48.98062000105307%2C2.6810803814926203%2C48.7306200010531][adresse]]
+** Maison de Balzac
+   - [[https://www.maisondebalzac.paris.fr/][lien]]
+   - [[https://duckduckgo.com/?t=ffab&q=47%2C+rue+Raynouard+75016+Paris&iaxm=maps&bbox=2.269514808157652%2C48.85993367453213%2C2.2921899918423776%2C48.85095052169093][adresse]]
 ** Musée Rodin
    - [[https://www.musee-rodin.fr/][site]]
    - [[https://www.musee-rodin.fr/preparer-sa-visite/informations-pratiques#horaires][horaires]]
@@ -55,6 +85,9 @@
    - [[https://www.carnavalet.paris.fr/visiter][site]]
    - [[https://www.carnavalet.paris.fr/visiter/informations-pratiques][horaire]] : tous les jours sauf lundi, 10-18h
    - [[https://duckduckgo.com/?q=23%2C+rue+Madame+de+S%C3%A9vign%C3%A9+75003+Paris&t=ffab&iaxm=maps&bbox=2.34644326743134%2C48.86508265978562%2C2.367850732568712%2C48.856602649785636][adresse]]
+** Fondation Louis Vuitton
+   - [[https://www.fondationlouisvuitton.fr/fr/][lien]]
+   - [[https://duckduckgo.com/?q=8%2C+Avenue+du+Mahatma+Gandhi+Bois+de+Boulogne%2C+75116+Paris&iaxm=maps&bbox=2.2523820338724505%2C48.88117430229754%2C2.275092466127475%2C48.87218100229752][adresse]]
 * Restaurants
 ** Procope
    - [[https://www.procope.com/][site]]
@@ -68,16 +101,19 @@
 ** Cafe Marly (Louvres)
    - [[https://cafe-marly.com/][site]]
    - Rue de Rivoli
-* Puces de Vanves
-  - [[https://pucesdevanves.com/][site]]
-* Tour Montparnasse
-  - [[https://www.tour-montparnasse.fr/][site]]
-  - [[https://www.tourmontparnasse56.com/fr/infos-pratiques/tarifs/][tarif et horaires]]
-  - jusqu`à 22h30
+** Steam bar
+   - [[https://www.steambar.fr/][lien]]
+   - Saint Germain des pres
+   - Décors digne de Wong Kar-Waï
+* Les meilleures terrasses cachées
+** Jardin du musée de la vie romantique
+** Amagat
+** Jardin 21
+** Le tres particulier
+** Hotel Amour
 * Theatre
 ** Comedie francaise
    - [[https://www.comedie-francaise.fr/][site]]
-   - épuisé!
 ** La huchette
    - [[http://www.theatre-huchette.com/en/home-store/][site]]
    - [[https://indiv.themisweb.fr/0620/fChoixSeance.aspx?idstructure=0620&EventId=46&request=QcE+w0WHSuCuxfPWGGXv4CMkRpLMQWK8DMfSJFPTB41m3Aj2wNBfMmHEPGuq9Eoekvmk8oW7XDkM/hFpKT3WVA==&yymm=20230207][lien réservation]]
@@ -92,3 +128,7 @@
    - [[https://fr.wikipedia.org/wiki/Passage_Verdeau][wikipedia]]
 ** Galerie verraux-dodat
    - [[https://fr.wikipedia.org/wiki/Passage_Verdeau][wikipedia]]
+* Autour de Paris
+** Maison de Van Gogh
+   - [[https://www.maisondevangogh.fr/][lien]]
+   - Auvers sur Oise, [[https://duckduckgo.com/?q=56+rue+du+G%C3%A9n%C3%A9ral+de+Gaulle+Auvers-sur-Oise&iaxm=maps&bbox=2.1655107674435357%2C49.07344316525923%2C2.1796843325564765%2C49.0678522488386][adresse]]
