@@ -33,6 +33,8 @@
 *** Certificat de session
     - ANTS (agence nationale des titres sécurisés)
     - Il faut créer un compte sur [[https://app.franceconnect.gouv.fr/api/v1/authorize?response_type=code&client_id=1c2b0d1268d50a86529979e0a7a2bb474d33f20983d0944f98bb3109b5b3479b&redirect_uri=https%3A%2F%2Fmoncompte.ants.gouv.fr%2Fbackend%2Fapi%2FfranceConnect%2Fcallback&scope=openid+profile+email+preferred_username&acr_values=eidas1&state=default&nonce=lIvt4Qvt0sMCQaYWCt5f][france connect]]
+      - telecharger app
+      - nécessite nouvelle carte identité
     - [[https://www.service-public.fr/particuliers/vosdroits/R41137][demarche en ligne]]
     - exemplaire [[https://www.formulaires.service-public.fr/gf/cerfa_15776.do][pdf]]
     - notice explicative [[https://www.formulaires.service-public.fr/gf/getNotice.do?cerfaNotice=51291&cerfaFormulaire=15776][pdf]]
