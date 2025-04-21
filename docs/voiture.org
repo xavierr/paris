@@ -12,12 +12,11 @@
 #+HTML_HEAD_EXTRA: <style type="text/css"> div.outline-text-4 > ul {margin-top : 0.2cm; margin-left : 1.5cm; padding : 0cm } </style>
 #+HTML_HEAD_EXTRA: <style type="text/css"> div.outline-text-4 > table {margin-left : 1cm; margin-top : 0.5cm} </style>
 
-* Lavage
-  - Velizy [[https://wash-totalenergies.fr/centre-de-lavage/ile-de-france/yvelines/jouy-en-josas/relais-clair-bois/#practical-info][infos pratiques]]
-* Information vehicules
-** immatriculation
+* Information vehicule
+** Immatriculation
    EM-984-BV
    mise en circulation : Avril 2017
+   [[https://gitlab.sintef.no/xavier.raynaud/infopersodocuments/blob/master/documents/certificat-immatriculation.jpeg][certificat-immatriculation.jpeg]]
 ** Autoviza
    - [[https://autoviza.fr/report/report?uid=b69d7928-6d9d-4c4c-858d-064768251691&key=df714fb0-8][lien]]
 ** HistoVec
@@ -29,15 +28,35 @@
    citroen cactus 1.2 puretech 82 feel - Essence - boite manuelle
 * Site officiel
   - [[https://www.service-public.fr/particuliers/vosdroits/F1707][vente véhicule]]
+** documents nécessaires
+*** Certificat immatriculation
+*** Certificat de session
+    - ANTS (agence nationale des titres sécurisés)
+    - Il faut créer un compte sur [[https://app.franceconnect.gouv.fr/api/v1/authorize?response_type=code&client_id=1c2b0d1268d50a86529979e0a7a2bb474d33f20983d0944f98bb3109b5b3479b&redirect_uri=https%3A%2F%2Fmoncompte.ants.gouv.fr%2Fbackend%2Fapi%2FfranceConnect%2Fcallback&scope=openid+profile+email+preferred_username&acr_values=eidas1&state=default&nonce=lIvt4Qvt0sMCQaYWCt5f][france connect]]
+    - [[https://www.service-public.fr/particuliers/vosdroits/R41137][demarche en ligne]]
+    - exemplaire [[https://www.formulaires.service-public.fr/gf/cerfa_15776.do][pdf]]
+    - notice explicative [[https://www.formulaires.service-public.fr/gf/getNotice.do?cerfaNotice=51291&cerfaFormulaire=15776][pdf]]
+*** Code de session
+    - produit au moment où est faite la démarche en ligne
+*** Certificat de situation administration
+    - de moins de 15 jours, correspond à l'histovec
+    - [[https://www.service-public.fr/particuliers/vosdroits/R52957][lien]] 
+*** Proces verbal controle technique
+** documents conseillés
+*** carnet entretien voiture
+*** factures entretiens et reparations
+*** rapport histovec
 * Centrale des particuliers
-  - [[https://www.lacentrale.fr/compte/annonces][lien]]
+  - [[https://www.lacentrale.fr/compte/annonces][lien]] vers l'annonce
 * Argus
 ** rapport
    - [[https://gitlab.sintef.no/xavier.raynaud/infopersodocuments/blob/master/documents/argus.pdf][pdf]]
-** Agences
+** agences
    - Agence Ewigo Palaiseau
      1 avenue du Général Leclerc, 91120 PALAISEAU
    - EWIGO JUVISY-SUR-ORGE
      73 AVENUE DE LA COUR DE FRANCE, 91260 JUVISY-SUR-ORGE
    - GRS AUTO
      233 avenue Gabriel Péri, 91700 Sainte-Geneviève-des-Bois
+* Lavage
+  - Velizy [[https://wash-totalenergies.fr/centre-de-lavage/ile-de-france/yvelines/jouy-en-josas/relais-clair-bois/#practical-info][infos pratiques]]
