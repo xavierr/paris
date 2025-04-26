@@ -13,7 +13,25 @@
 #+HTML_HEAD_EXTRA: <style type="text/css"> div.outline-text-4 > ul {margin-top : 0.2cm; margin-left : 1.5cm; padding : 0cm } </style>
 #+HTML_HEAD_EXTRA: <style type="text/css"> div.outline-text-4 > table {margin-left : 1cm; margin-top : 0.5cm} </style>
 
-* Tur 4 Juli
+* Plan
+
+  |         |    |           | Overnatting | Airbnb | Fly | Totalt |
+  |---------+----+-----------+-------------+--------+-----+--------|
+  | Fredag  |  4 | Oslo      | London      |   2222 |     |        |
+  | Lørdag  |  5 | London    | London      |   2222 |     |        |
+  | Søndag  |  6 | London    | Cambridge   |   1375 |     |        |
+  | Mandag  |  7 | Cambridge | Cambridge   |   1375 |     |        |
+  | Tirsdag |  8 | Cambridge | Cambridge   |   1375 |     |        |
+  | Onsdag  |  9 | Cambridge | Cambridge   |   1375 |     |        |
+  | Torsdag | 10 | Cambridge | Cambridge   |   1375 |     |        |
+  | Fredag  | 11 | Cambdrige |             |        |     |        |
+  |---------+----+-----------+-------------+--------+-----+--------|
+  | Sum     |    |           |             |        |     |        |
+
+  #+TBLFM: $5='(+ @2$5..@-1$5)
+
+* Fly 4 Juli
+  
   - Norwegian
     - 18:50-20:10, 1690/pers  [[https://www.norwegian.no/ipc/availability/avaday?D_City=OSLALL&A_City=LGW&TripType=1&D_Day=04&D_Month=202507&D_SelectedDay=04&R_Day=04&R_Month=202507&R_SelectedDay=04&dFlight=DY1302OSLLGW03JUL&dCabinFareType=9&AgreementCodeName=-1&CurrencyCode=NOK&rnd=44222&processid=70534][link]]
     - lander på Gatwick
@@ -27,7 +45,10 @@
       |  17:30 | 18:50 | 2439 nok |
     - Lander på Heathrow
     - Tbane fra London, se [[https://www.heathrow.com/transport-and-directions/by-rail-or-train/london-underground][her]].
+
 * Airbnb London
-  - Sheperds bush (vest), 2975nok/natt, [[https://www.airbnb.no/rooms/1349148868142618343?adults=5&check_in=2025-07-04&check_out=2025-07-07&location=London&search_mode=regular_search&source_impression_id=p3_1744557368_P32_apvo7uRVoBRz&previous_page_section_name=1001&federated_search_id=92071c40-8ce4-40d3-a0c4-db2eaf3a6f30&enable_auto_translate=false][link]]
+  - Eling, 2222nok/natt, [[https://www.airbnb.com/rooms/1141213282759962482?adults=5&check_in=2025-07-04&check_out=2025-07-06&location=london&search_mode=regular_search&category_tag=Tag%3A8678&photo_id=1890654481&source_impression_id=p3_1745674272_P3RPiZL05Ayf35hX&previous_page_section_name=1001&federated_search_id=ee0a58f9-3662-44a5-8ef3-e67e7a5b50b0][link]]
+* Airbnb Cambridge
+  - Langton cottage bungalow, 1375/natt, [[https://www.airbnb.com/rooms/41835432?adults=4&check_in=2025-07-04&check_out=2025-07-14&location=Bury%20St%20Edmunds%2C%20United%20Kingdom&search_mode=regular_search&source_impression_id=p3_1745672930_P3xyzG00Lsq_7FJa&previous_page_section_name=1001&federated_search_id=2f5ce615-eafe-43b7-9216-aa949c64a6e8][link]]
 * Retur 15 Juli
   - Norwegian [[https://www.norwegian.no/ipc/availability/avaday?D_City=LGW&A_City=OSLALL&TripType=1&D_Day=15&D_Month=202507&D_SelectedDay=15&R_Day=15&R_Month=202507&R_SelectedDay=15&AdultCount=5&dFlight=DY1307LGWOSL15JUL&dCabinFareType=9&IncludeTransit=false&AgreementCodeName=-1&CurrencyCode=NOK&rnd=85999&processid=19381][link]] 1741 nok, 1841 nok
