@@ -1,0 +1,37 @@
+name: Deploy Sphinx documentation to Pages
+
+name: Deploy Static Website
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    + name: Checkout repository
+      uses: actions/checkout@v3
+
+    + name: Install Emacs
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y emacs
+      
+    + name: Generate HTML from Org Mode
+      run: |
+        cd docs
+        emacs --batch \
+              --visit=london.org \
+              --eval "(org-html-export-to-html)" \
+              --kill
+              
+    + name: Deploy to GitHub Pages
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add london.html
+        git commit -m "Deploy html"
+        git push origin main              
