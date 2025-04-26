@@ -15,21 +15,20 @@
 
 * Plan
 
-  |         |    |           | Overnatting | Airbnb | Fly | Totalt |
-  |---------+----+-----------+-------------+--------+-----+--------|
-  | Fredag  |  4 | Oslo      | London      |   2222 |     |        |
-  | Lørdag  |  5 | London    | London      |   2222 |     |        |
-  | Søndag  |  6 | London    | Cambridge   |   1375 |     |        |
-  | Mandag  |  7 | Cambridge | Cambridge   |   1375 |     |        |
-  | Tirsdag |  8 | Cambridge | Cambridge   |   1375 |     |        |
-  | Onsdag  |  9 | Cambridge | Cambridge   |   1375 |     |        |
-  | Torsdag | 10 | Cambridge | Cambridge   |   1375 |     |        |
-  | Fredag  | 11 | Cambdrige |             |        |     |        |
-  |---------+----+-----------+-------------+--------+-----+--------|
-  | Sum     |    |           |             |        |     |        |
-
-  #+TBLFM: $5='(+ @2$5..@-1$5)
-
+  |         |    |           | Overnatting | Airbnb |  Fly | Totalt |
+  |---------+----+-----------+-------------+--------+------+--------|
+  | Fredag  |  4 | Oslo      | London      |   2222 | 6760 |   8982 |
+  | Lørdag  |  5 | London    | London      |   2222 |      |   2222 |
+  | Søndag  |  6 | London    | Cambridge   |   1375 |      |   1375 |
+  | Mandag  |  7 | Cambridge | Cambridge   |   1375 |      |   1375 |
+  | Tirsdag |  8 | Cambridge | Cambridge   |   1375 |      |   1375 |
+  | Onsdag  |  9 | Cambridge | Cambridge   |   1375 |      |   1375 |
+  | Torsdag | 10 | Cambridge | Cambridge   |   1375 |      |   1375 |
+  | Fredag  | 11 | Cambdrige |             |        |      |      0 |
+  |---------+----+-----------+-------------+--------+------+--------|
+  | Sum     |    |           |             |  11319 | 6760 |  18079 |
+  #+TBLFM:@>$5..@>$>>='(+ @2$0..@-2$0);N::@2$>..@>$>='(+ @0$5..@0$>>);N
+  
 * Fly 4 Juli
   
   - Norwegian
