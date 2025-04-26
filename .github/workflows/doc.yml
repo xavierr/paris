@@ -8,10 +8,12 @@ on:
       - main
 
 jobs:
-  build-and-deploy:
+  build:
+    
     runs-on: ubuntu-latest
 
     steps:
+      
     + name: Checkout repository
       uses: actions/checkout@v3
 
