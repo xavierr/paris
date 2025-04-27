@@ -29,10 +29,14 @@
   | Sum     |    |           |             |  11749 | 6760 |  18509 |
   #+TBLFM:@>$5..@>$>>='(+ @2$0..@-2$0);N::@2$>..@>$>='(+ @0$5..@0$>>);N
   
+* ETA
+  
+  - [[https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta#apply-for-an-eta][lenke]]
+
 * Fly 4 Juli
   
   - Norwegian
-  - 13:05-14:25, 1999/pers [[https://www.norwegian.no/ipc/availability/avaday?D_City=OSLALL&A_City=LGW&TripType=1&D_Day=04&D_Month=202507&D_SelectedDay=04&R_Day=04&R_Month=202507&R_SelectedDay=04&dFlight=DY1302OSLLGW03JUL&dCabinFareType=9&AgreementCodeName=-1&CurrencyCode=NOK&rnd=44222&processid=70534][link]]
+  - 13:05-14:25, 1999/pers
   - lander på Gatwick
   - Det tar 30 minutter med tog fra Gatwick til Victoria Station (inn i sentrum), se [[https://www.gatwickairport.com/transport-options/train.html][her]].
 
@@ -50,5 +54,5 @@
   - Norwegian [[https://www.norwegian.no/ipc/availability/avaday?D_City=LGW&A_City=OSLALL&TripType=1&D_Day=15&D_Month=202507&D_SelectedDay=15&R_Day=15&R_Month=202507&R_SelectedDay=15&AdultCount=5&dFlight=DY1307LGWOSL15JUL&dCabinFareType=9&IncludeTransit=false&AgreementCodeName=-1&CurrencyCode=NOK&rnd=85999&processid=19381][link]] 1741 nok, 1841 nok
 * Lenker (private)
   - [[https://www.airbnb.com/trips/v1][airbnb]]
-  - [[https://gitlab.sintef.no/xavier.raynaud/infopersodocuments/blob/master/Cambridge2025/][flybilleter]]
+  - [[https://github.com/xavierr/persodocuments/blob/master/Cambridge2025][flybilleter]]
     
