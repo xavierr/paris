@@ -17,16 +17,16 @@
 
   |         |    |           | Overnatting | Airbnb |  Fly | Totalt |
   |---------+----+-----------+-------------+--------+------+--------|
-  | Fredag  |  4 | Oslo      | London      |   2222 | 6760 |   8982 |
-  | Lørdag  |  5 | London    | London      |   2222 |      |   2222 |
-  | Søndag  |  6 | London    | London      |   2222 |      |   2222 |
+  | Fredag  |  4 | Oslo      | London      |   2083 | 6760 |   8843 |
+  | Lørdag  |  5 | London    | London      |   2083 |      |   2083 |
+  | Søndag  |  6 | London    | London      |   2083 |      |   2083 |
   | Mandag  |  7 | Cambridge | Cambridge   |   1375 |      |   1375 |
   | Tirsdag |  8 | Cambridge | Cambridge   |   1375 |      |   1375 |
   | Onsdag  |  9 | Cambridge | Cambridge   |   1375 |      |   1375 |
   | Torsdag | 10 | Cambridge | Cambridge   |   1375 |      |   1375 |
   | Fredag  | 11 | Cambdrige |             |        |      |      0 |
   |---------+----+-----------+-------------+--------+------+--------|
-  | Sum     |    |           |             |  12166 | 6760 |  18926 |
+  | Sum     |    |           |             |  11749 | 6760 |  18509 |
   #+TBLFM:@>$5..@>$>>='(+ @2$0..@-2$0);N::@2$>..@>$>='(+ @0$5..@0$>>);N
   
 * Fly 4 Juli
