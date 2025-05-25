@@ -15,19 +15,22 @@
 
 * Plan
 
-  |         |    |           | Overnatting | Airbnb |  Fly | Totalt |
-  |---------+----+-----------+-------------+--------+------+--------|
-  | Fredag  |  4 | Oslo      | London      |   3548 | 7996 |  11544 |
-  | Lørdag  |  5 | London    | London      |   3548 |      |   3548 |
-  | Søndag  |  6 | London    | London      |   3548 |      |   3548 |
-  | Mandag  |  7 | Cambridge | Cambridge   |   1964 |      |   1964 |
-  | Tirsdag |  8 | Cambridge | Cambridge   |   1964 |      |   1964 |
-  | Onsdag  |  9 | Cambridge | Cambridge   |   1964 |      |   1964 |
-  | Torsdag | 10 | Cambridge | Cambridge   |   1964 |      |   1964 |
-  | Fredag  | 11 | Cambdrige |             |        |      |      0 |
-  |---------+----+-----------+-------------+--------+------+--------|
-  | Sum     |    |           |             |  18500 | 7996 |  26496 |
-  #+TBLFM:@>$5..@>$>>='(+ @2$0..@-2$0);N::@2$>..@>$>='(+ @0$5..@0$>>);N
+  |         |    |           | Overnatting | Airbnb |   Fly |  Bil |  Tog | Totalt |
+  |---------+----+-----------+-------------+--------+-------+------+------+--------|
+  | Fredag  |  4 | Oslo      | London      |   3548 |  7996 |      |      |  11544 |
+  | Lørdag  |  5 | London    | London      |   3548 |       |      |      |   3548 |
+  | Søndag  |  6 | London    | London      |   3548 |       |      |      |   3548 |
+  | Mandag  |  7 | Cambridge | Cambridge   |   1964 |       |      |      |   1964 |
+  | Tirsdag |  8 | Cambridge | Cambridge   |   1964 |       |      |      |   1964 |
+  | Onsdag  |  9 | Cambridge | Cambridge   |   1964 |       |      |      |   1964 |
+  | Torsdag | 10 | Cambridge | Cambridge   |   1964 |       |      |      |   1964 |
+  | Fredag  | 11 | Cambdrige | Aldeburgh   |   3027 |       |  571 |      |   3598 |
+  | Lørdag  | 12 | Aldeburgh | Aldeburgh   |   3027 |       | 1142 |      |   4169 |
+  | Søndag  | 13 | Aldeburgh | Aldeburgh   |   3027 |       | 1142 |      |   4169 |
+  | Mandag  | 14 | Aldeburgh | Oslo        |        |  6248 |  571 | 5792 |  12611 |
+  |---------+----+-----------+-------------+--------+-------+------+------+--------|
+  | Sum     |    |           |             |  27581 | 14244 | 3426 | 5792 |  51043 |
+  #+TBLFM:@>$5..@>$>>='(+ @2$0..@-1$0);N::@2$>..@>$>='(+ @0$5..@0$>>);N
 
   
 * ETA
@@ -63,8 +66,23 @@
    99 bishops road, Trumpington, [[https://duckduckgo.com/?t=ffab&q=bishops+road++99+cambridge&iaxm=maps&bbox=0.10536923903406148%2C52.170972038416195%2C0.1227863609659181%2C52.16453977701411][map]]
 ** Søk
    - airbnb [[https://www.airbnb.com/s/Cambridge--United-Kingdom/homes?refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2025-05-01&monthly_length=3&monthly_end_date=2025-08-01&disable_auto_translation=true&price_filter_input_type=0&channel=EXPLORE&place_id=ChIJs4un4Ztw2EcRMOPBu6gcDgQ&location_bb=QlDy6T4887RCUKG4PYyDxA%3D%3D&acp_id=f5ac1902-c8b0-44cd-bae2-e4e1a0ee0bf7&date_picker_type=calendar&checkin=2025-07-07&checkout=2025-07-11&adults=4&source=structured_search_input_header&search_type=autocomplete_click][søk]] (7-11 juli, filter på prise)
-* Retur 15 Juli
-  - Norwegian [[https://www.norwegian.no/ipc/availability/avaday?D_City=LGW&A_City=OSLALL&TripType=1&D_Day=15&D_Month=202507&D_SelectedDay=15&R_Day=15&R_Month=202507&R_SelectedDay=15&AdultCount=4&dFlight=DY1307LGWOSL15JUL&dCabinFareType=9&IncludeTransit=false&AgreementCodeName=-1&CurrencyCode=NOK&rnd=63122&processid=24113][link]] 1741 nok, 1841 nok
+* Aldeburgh
+  - Fredag 11. Juli - Mandag 14. Juli
+  - [[https://www.airbnb.com/rooms/1356462608463737919?adults=5&check_in=2025-07-11&check_out=2025-07-14&search_mode=regular_search&source_impression_id=p3_1748171773_P3QbeY1kJtCtRhr8&previous_page_section_name=1000&federated_search_id=05d2590f-f36d-441d-b630-5aadf3774b32][airbnb]]
+  - 9081 nok
+* Bil utleie
+  - Cambridge, [[https://www.europcar.com/en-us/reservation/reviewandbook?vehicleType=CR&pickupLocation=CBGC01&dropoffLocation=CBGC01&pickupYear=2025&pickupMonth=07&pickupDay=04&dropoffYear=2025&dropoffMonth=07&dropoffDay=07&pickupHour=12&pickupMinute=00&dropoffHour=12&dropoffMinute=00&driverAge=26&countryOfResidence=NO&bundleCode=10&offerId=RWBHV1lgQ0JHQzAxYENCR0MwMWAyMDI1LTA3LTA0VDEyOjAwYDIwMjUtMDctMDdUMTI6MDBgU0ZNUmBOT2BudWxsYGRmOWZlZGM5ODI2YWJjMmE4OTM3NjBjMTcyZGNhOTRlY2UwNmQ0ZWZkNzcyNjA4OWU1OGIwZWNiNmY5YmIwMDk3ZmYyOTA3Mzg0OGM4OTI0MGMyNDBjYTQzMjBiMDVjNmFjNmUyNmYxM2FhYmQ0MTg5NGVlNDkxMzFlNzA1NWM0OWQ2OWYwNjNkMmY3OTQzOWI5ZmVmNmYyZDYwYjMzOWVlYTJjMjYxNzg2YzIxMjI4NDcyYmMxMDA1ZGY2NjFkZWE3YzAzZDVhNGUyOGNkNTQ5MGVhNjkwMDRjZWE4ZDA5YDI2YG51bGxgYA%3D%3D&isNewBundlesFlow=true&equipmentCode=NVS-1][europcar]]
+  - 3426 nok
+* Kjøretur Cambridge-Aldeburgh
+  - 1t40m [[https://www.google.com/maps/dir/Cambridge,+UK/Aldeburgh,+UK/@52.2731406,0.2045646,9z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d85d89f32a012d:0x63a320e1a35e3d21!2m2!1d0.1312729!2d52.1950788!1m5!1m1!1s0x47da279237d59a25:0x4a34555a49a807fb!2m2!1d1.600446!2d52.155357!3e0?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D][map]]
+* Aldeburgh-Gatwick flyplass Fredag 14. Juli
+  - Kjøretur Aldeburgh-Cambridge (1t40)
+  - Tog Cambridge-Gatwick : 14:53-16:44 [[https://www.thetrainline.com/book/results?origin=urn%3Atrainline%3Ageneric%3Aloc%3ACBG7022gb&destination=urn%3Atrainline%3Ageneric%3Aloc%3AGTW5416gb&outwardDate=2025-07-14T14%3A30%3A00&outwardDateType=departAfter&journeySearchType=single&passengers%5B%5D=1995-05-25&passengers%5B%5D=1995-05-25&passengers%5B%5D=1995-05-25&passengers%5B%5D=2015-05-25&directSearch=false&splitSave=true&transportModes%5B%5D=mixed&selectedOutward=RV07QL%2BbeWg%3D%3AH70DInShUvQ%3D][trainline]]
+  - 1448 nok/pers
+* Fly Gatwick-Oslo
+  - [[https://www.norwegian.no/ipc/availability/avaday?D_City=LGW&A_City=OSLALL&TripType=1&D_Day=14&D_Month=202507&D_SelectedDay=14&R_Day=15&R_Month=202507&R_SelectedDay=15&AdultCount=4&dFlight=DY1307LGWOSL15JUL&dCabinFareType=9&IncludeTransit=false&AgreementCodeName=-1&CurrencyCode=NOK&rnd=99743&processid=5798][Norwegian]]
+  - 14.juli : 20:50 - 23:55
+  - 1562 nok/pers
 * Lenker (private)
   - [[https://www.airbnb.com/trips/v1][airbnb]]
   - [[https://github.com/xavierr/persodocuments/blob/master/Cambridge2025][flybilleter]]
