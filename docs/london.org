@@ -71,8 +71,10 @@
    
 * Bil utleie
   
-  - Cambridge, [[https://www.europcar.com/en-us/reservation/reviewandbook?vehicleType=CR&pickupLocation=CBGC01&dropoffLocation=CBGC01&pickupYear=2025&pickupMonth=07&pickupDay=04&dropoffYear=2025&dropoffMonth=07&dropoffDay=07&pickupHour=12&pickupMinute=00&dropoffHour=12&dropoffMinute=00&driverAge=26&countryOfResidence=NO&bundleCode=10&offerId=RWBHV1lgQ0JHQzAxYENCR0MwMWAyMDI1LTA3LTA0VDEyOjAwYDIwMjUtMDctMDdUMTI6MDBgU0ZNUmBOT2BudWxsYGRmOWZlZGM5ODI2YWJjMmE4OTM3NjBjMTcyZGNhOTRlY2UwNmQ0ZWZkNzcyNjA4OWU1OGIwZWNiNmY5YmIwMDk3ZmYyOTA3Mzg0OGM4OTI0MGMyNDBjYTQzMjBiMDVjNmFjNmUyNmYxM2FhYmQ0MTg5NGVlNDkxMzFlNzA1NWM0OWQ2OWYwNjNkMmY3OTQzOWI5ZmVmNmYyZDYwYjMzOWVlYTJjMjYxNzg2YzIxMjI4NDcyYmMxMDA1ZGY2NjFkZWE3YzAzZDVhNGUyOGNkNTQ5MGVhNjkwMDRjZWE4ZDA5YDI2YG51bGxgYA%3D%3D&isNewBundlesFlow=true&equipmentCode=NVS-1][europcar]]
-  - 3426 nok
+  - Cambridge [[https://maps.app.goo.gl/yyBGdQwhAM3qxnqt9][Hertz]]
+  - Clifton Road, Unit 28 Cambridge, GB CB1 7EB 
+  - 152.96 GBP
+  - location details [[https://github.com/xavierr/persodocuments/blob/master/Cambridge2025/location_voiture.pdf][pdf]] (private)
 
 * Kjøretur Cambridge-Aldeburgh
   
