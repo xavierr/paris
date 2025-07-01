@@ -57,6 +57,11 @@
   
   - tube [[https://content.tfl.gov.uk/large-print-tube-map.pdf][map]]
     
+* Tog London-Cambridge
+
+  - Kings Cross station 14:42 - Cambridge 15:20
+  - [[https://github.com/xavierr/persodocuments/blob/master/Cambridge2025][tickets]] (private)
+
 * Airbnb Cambridge
   
   - Langton cottage bungalow, 1964/natt, [[https://www.airbnb.com/rooms/41835432?adults=4&check_in=2025-07-04&check_out=2025-07-14&location=Bury%20St%20Edmunds%2C%20United%20Kingdom&search_mode=regular_search&source_impression_id=p3_1745672930_P3xyzG00Lsq_7FJa&previous_page_section_name=1001&federated_search_id=2f5ce615-eafe-43b7-9216-aa949c64a6e8][link]]
