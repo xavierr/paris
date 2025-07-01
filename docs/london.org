@@ -97,6 +97,12 @@
   - 14.juli : 20:50 - 23:55
   - 1562 nok/pers
     
+* Glutenfri restauranter
+
+  - [[https://www.onealdwych.com/food-drink/indigo][Indigo]], [[https://www.onealdwych.com/find-us][location]] (Covent Garden)
+  - [[https://www.nicherestaurants.co.uk/][niche]], Angel metro station
+  - [[https://www.mygfguide.com/central-london-gluten-free-guide/][list of restaurants]]
+
 * Lenker (private)
   - [[https://www.airbnb.com/trips/v1][airbnb]]
   - [[https://github.com/xavierr/persodocuments/blob/master/Cambridge2025][flybilleter]]
