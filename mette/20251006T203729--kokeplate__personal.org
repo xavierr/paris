@@ -1,0 +1,60 @@
+#+title:      kokeplate
+#+date:       [2025-10-06 Mon 20:37]
+#+filetags:   :personal:
+#+identifier: 20251006T203729
+
+#+OPTIONS: num:nil toc:nil
+
+* Order
+
+  #+CAPTION: order
+  [[./documents/Screenshot from 2025-10-08 08-48-54_order.png]]
+  
+
+* Four
+
+  - [[https://www.elkjop.no/product/hvitevarer/komfyr-stekeovn/stekeovn/electrolux-ovn-oop801nx/609358#specifications][Electrolux Ovn OOP801NX]]
+    - dimensions ont l'air ok.
+    - 4444 nok
+
+** Four actuel
+
+   - Grundig GEZM 27001 BP, [[https://www.grundig.com/content/dam/rainbow-grundig-denmark-dk-aem/rainbow-grundig-denmark-dk-aemProductCatalog/product-documents/7754789002-GEZM-27001-BP/en-US-7754789002-201708081019424-Installation-Diagramen-US.jpg][installation instruction link]]
+   - dimensions :
+     - height: 595 mm
+     - width: 594 mm
+     - depth: 567 mm
+   - installation:
+     - height: 590 mm
+     - width: 600 mm
+     - depth: 560 mm, min 550 mm
+   - power 3.1kW
+
+* Stekeplater
+
+  - [[https://www.elkjop.no/product/hvitevarer/komfyr-stekeovn/integrerte-platetopper/electrolux-500-platetopp-induksjon-hhi650mc-59cm/975489#specifications][Electrolux 500 platetopp induksjon HHI650MC (59cm)]] (elkjøp)
+    - [[file:documents/electrolux-500-platetopp-induksjon-hhi650mc-59cm.PDF][pdf]]
+    - 4995 nok
+  - [[https://www.elkjop.no/product/hvitevarer/komfyr-stekeovn/integrerte-platetopper/electrolux-induksjonstopp-hoi624s/607410][Electrolux Induksjonstopp HOI624S]]
+    - modèle plus ancien que le précédent
+      
+** Stekeplate actuel
+
+   - Bejublad smaklig (ikea) [[https://www.ikea.com/au/en/manuals/smaklig-induction-hob__AA-1750502-5.pdf][link pdf]]
+   - mesure du trou: 490x560 (corresponds au mesure de par example electrolux 500)
+
+* Komfyrvakt
+  
+  - bestilt av [[https://spoton.no/kontakt-oss][spoton]]
+  - [[https://www.elkjop.no/product/hvitevarer/tilbehor-til-hvitevarer/tilbehor-til-ovn-og-komfyr/micro-matic-microsense-komfyrvakt-1418057-sort/226343][micro matic microsense komfyrvakt]] (elkjøpt)
+  - [[https://www.elektroimportoren.no/komfyrvakt-microsense-2-hvit/1412011/Product.html][microsense komfyrvakt]]
+    - pris : 3979 nok
+    - pris med montering : 5290 nok
+  - [[https://www.elektroimportoren.no/ctm-lyng-mkomfy-1-8-25r/6251680/Product.html][Mkomfy25R 1.8G, CTM Lyng]], sansynligvis nyere verson av den vi har
+    - pris : 2699
+    - prid med montering : 5090
+      
+** Komfyrvakt actuel
+
+   - Mkomfy25R 1.6G, CTM Lyng, [[https://ctmlyng.no/wp-content/uploads/2025/09/10300-Bruksanvisning-Mkomfy25R-1.6G-V2-Trykkeri.pdf][link pdf]]
+
